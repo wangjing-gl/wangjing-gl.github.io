@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangjing-gl.github.io</id>
     <title>Trans-fly</title>
-    <updated>2021-04-11T06:20:44.117Z</updated>
+    <updated>2021-04-11T06:39:27.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wangjing-gl.github.io"/>
     <link rel="self" href="https://wangjing-gl.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://wangjing-gl.github.io/images/avatar.png</logo>
     <icon>https://wangjing-gl.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Trans-fly</rights>
+    <entry>
+        <title type="html"><![CDATA[译者学习工具集]]></title>
+        <id>https://wangjing-gl.github.io/post/yi-zhe-xue-xi-gong-ju-ji/</id>
+        <link href="https://wangjing-gl.github.io/post/yi-zhe-xue-xi-gong-ju-ji/">
+        </link>
+        <updated>2021-04-11T06:22:44.000Z</updated>
+        <content type="html"><![CDATA[<p>搜索工具<br>
+文本处理工具<br>
+语料对齐工具<br>
+术语管理工具<br>
+主流计算机辅助翻译软件<br>
+影视字幕翻译工具</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://wangjing-gl.github.io/post/hello-gridea/</id>
